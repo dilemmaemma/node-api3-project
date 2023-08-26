@@ -13,7 +13,7 @@
         "url": "git+https://github.com/BloomInstituteOfTechnology/node-api3-project.git"
     },
     "dependencies": {
-        "express": "^4.18.1",
+        "express": "^4.18.2",
         "knex": "^2.0.0",
         "sqlite3": "^5.0.8"
     },
